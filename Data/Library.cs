@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SimpleBookLibraryApi.Models;
 
-namespace LibraryApi.Data
+namespace SimpleBookLibraryApi.Data
 {
     public class LibraryContext : DbContext
     {
